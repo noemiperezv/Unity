@@ -1,8 +1,5 @@
 # Creación de Video Juego
-<p align="center">
-    ![Logo](https://user-images.githubusercontent.com/66137245/197370883-3b7949c1-4852-4982-9367-ab7147aee8d8.png)
-
-  <p align="center">
+![Logo](https://user-images.githubusercontent.com/66137245/197370883-3b7949c1-4852-4982-9367-ab7147aee8d8.png)
     Short description
     <br>
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
