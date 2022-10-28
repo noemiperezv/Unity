@@ -20,12 +20,16 @@
 
 ## Introducción
 
-- Nombre del proyecto: Monty
-- Objetivo: Controlar el jugador para encontrar el centro del laberinto donde se encuentra la meta con una recompenza.
-- Plataforma: PC, Género: Aventura, Clasificación: Todos, Personajes: Jugador y enemigos , Escenario: un laberinto.
-- Historia: Algunos bandidos han robado el queso de la rata Monty, y lo han colocado en el centro de un laberinto. Por lo que ahora debe emprender un viaje a través de un complejo laberinto para poder encontrarlo. En el camino encontrara algunos enemigos que le restaran vidas, o algunos poderes que le ayudaran a derrotar a sus enemigos.
+- Nombre del proyecto: 
+  Monty
+- Objetivo: 
+  Controlar el jugador para encontrar el centro del laberinto donde se encuentra la meta con una recompenza.
+- Plataforma: 
+  PC, Género: Aventura, Clasificación: Todos, Personajes: Jugador y enemigos , Escenario: un laberinto.
+- Historia:
+  Algunos bandidos han robado el queso de la rata Monty, y lo han colocado en el centro de un laberinto. Por lo que ahora debe emprender un viaje a través de un     complejo laberinto para poder encontrarlo. En el camino encontrara algunos enemigos que le restaran vidas, o algunos poderes que le ayudaran a derrotar a sus enemigos.
 - Personajes:
-- La rata Monty, y 5 enemigos(3 humanos y 2 animales).
+  La rata Monty, y 5 enemigos(3 humanos y 2 animales).
 - Reglas de Juego:
   El jugador inicia con 3 vidas, una puntuación en 0, y 5 minutos para completar el recorrido.
   El jugador puede moverse hacia adelante, hacia los lados, y saltar. 
