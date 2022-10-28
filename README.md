@@ -1,5 +1,5 @@
 # Creación de Video Juego
-![Logo](https://user-images.githubusercontent.com/66137245/197370883-3b7949c1-4852-4982-9367-ab7147aee8d8.png)
+![Logo](https://cdn-3.expansion.mx/dims4/default/5fd17a8/2147483647/strip/true/crop/3864x2576+0+0/resize/1200x800!/format/webp/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F33%2F38%2F425ea19f487680315036da9ef5f3%2Fistock-1334436084.jpg)
     Short description
     <br>
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
