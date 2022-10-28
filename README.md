@@ -66,6 +66,13 @@
 
 * VideoJuego
 
+## Videos con los desafíos
+* [Desafío Lección 1](https://drive.google.com/file/d/1ZHnoSGtU3S0NPdcOWW8Xum5z54WF241f/view?usp=sharing)
+* [Desafío Lección 2](https://drive.google.com/file/d/1NK674gLV-O9OeeBq-mEn3ZBUzEs7oQMQ/view?usp=sharing)
+* [Desafío Lección 3](https://drive.google.com/file/d/18tQyiLbeGR3mvkBTiD9ekWdwwWxYZ650/view?usp=sharing)
+* [Desafío Lección 4](https://drive.google.com/file/d/1A1QYEyKSAtMGpyE-sEquWI1XcE80ln64/view?usp=sharing)
+* [Desafío Lección 5](https://drive.google.com/file/d/1JXOQaLyrolYFdfKHLsWIu5T-Zhuar_cz/view?usp=sharing)
+
 ## Planificación
 
 ![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
