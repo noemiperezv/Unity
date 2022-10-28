@@ -20,13 +20,24 @@
 
 ## Introducción
 
-- Nombre del proyecto
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
-- Historia
-- Personajes
-- Reglas de Juego.
+- Nombre del proyecto: Monty
+- Objetivo: Controlar el jugador para encontrar el centro del laberinto donde se encuentra la meta con una recompenza.
+- Plataforma: PC, Género: Aventura, Clasificación: Todos, Personajes: Jugador y enemigos , Escenario: un laberinto.
+- Historia: Algunos bandidos han robado el queso de la rata Monty, y lo han colocado en el centro de un laberinto. Por lo que ahora debe emprender un viaje a través de un complejo laberinto para poder encontrarlo. En el camino encontrara algunos enemigos que le restaran vidas, o algunos poderes que le ayudaran a derrotar a sus enemigos.
+- Personajes:
+- La rata Monty, y 5 enemigos(3 humanos y 2 animales).
+- Reglas de Juego:
+  El jugador inicia con 3 vidas, una puntuación en 0, y 5 minutos para completar el recorrido.
+  El jugador puede moverse hacia adelante, hacia los lados, y saltar. 
+  Durante el recorrido encontrará algunos obstaculos que le restaran puntuación o enemigos que intentaran detenerlo.
+  En el laberinto se encuentran recompenzas para sumar su puntuación y 2 vidas más para ayudarlo a llegar a su objetivo.
+  El juego termina si su puntuación llega a números negativos, también puede terminar si se queda sin vidas, lo mismo que si termina el tiempo.
+  Gana el juego cuando logra llegar al centro del laberinto y encuenra su queso.
 - Pantallas de Juego
+  Pantalla de inicio.
+  Pantalla de juego en curso.
+  Pantalla de juego terminado.
+  Pantalla de juego ganado.
 - Plan de creación de VideoJuego.
 
 ## Código Fuente
