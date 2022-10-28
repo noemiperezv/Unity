@@ -126,8 +126,7 @@
 * [Desafío Lección 5](https://drive.google.com/file/d/1JXOQaLyrolYFdfKHLsWIu5T-Zhuar_cz/view?usp=sharing)
 
 ## Planificación
-
-![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
+<img width="953" alt="Planeación" src="https://user-images.githubusercontent.com/66137245/198742304-d31d880b-7608-4773-b06a-dcc29f19bb8a.png">
 
 ## Autores
 Noemi Perez Vega
