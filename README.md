@@ -39,9 +39,20 @@
   Gana el juego cuando logra llegar al centro del laberinto y encuenra su queso.
 - Pantallas de Juego
   Pantalla de inicio.
+  <br>
+  <img width="282" alt="Inicio" src="https://user-images.githubusercontent.com/66137245/199127489-b8931e7a-e0c1-4a98-b6dc-20833c9760e7.png">
+  <br>
   Pantalla de juego en curso.
+  <br>
+  <img width="351" alt="Curso" src="https://user-images.githubusercontent.com/66137245/199127506-c7e57a74-d9e2-45d8-8405-ec9c6a69bf48.png">
+  <br>
   Pantalla de juego terminado.
+  <br>
+  <img width="287" alt="Game over" src="https://user-images.githubusercontent.com/66137245/199128104-e0e8a56c-f62e-4886-9fed-a4a0a6317101.png">
   Pantalla de juego ganado.
+  <br>
+  <img width="313" alt="Juego ganado" src="https://user-images.githubusercontent.com/66137245/199127552-8adac4a9-0089-468a-a4fc-f054b69b56c0.png">
+  <br>
 - Plan de creación de VideoJuego.
 <table>
   <tr>
