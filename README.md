@@ -29,7 +29,17 @@
 - Historia:
   Algunos bandidos han robado el queso de la rata Monty, y lo han colocado en el centro de un laberinto. Por lo que ahora debe emprender un viaje a través de un     complejo laberinto para poder encontrarlo. En el camino encontrara algunos enemigos que le restaran vidas, o algunos poderes que le ayudaran a derrotar a sus enemigos.
 - Personajes:
-  La rata Monty, y 5 enemigos(3 humanos y 2 animales).
+  La rata Monty
+  <br>
+  ![image](https://user-images.githubusercontent.com/66137245/199128891-421db1be-36d5-4492-aaa3-0bb907518a18.png)
+  <br>
+  5 enemigos(3 humanos y 2 animales).
+  <br>
+  ![image](https://user-images.githubusercontent.com/66137245/199129569-196b1b33-fa37-4fa9-b98c-54dbb0733159.png)
+  ![image](https://user-images.githubusercontent.com/66137245/199129579-e589ad08-a6bf-4510-ad4e-0e73037fd11f.png)
+  ![image](https://user-images.githubusercontent.com/66137245/199129589-4e96ed75-ad74-45a0-8a02-4239eb7bce3f.png)
+  ![image](https://user-images.githubusercontent.com/66137245/199129094-2089627d-c12e-4f89-9b09-13695b03d628.png)
+  ![image](https://user-images.githubusercontent.com/66137245/199129282-43fd8e4e-60b2-40db-b49e-723bbd17b74a.png)
 - Reglas de Juego:
   El jugador inicia con 3 vidas, una puntuación en 0, y 5 minutos para completar el recorrido.
   El jugador puede moverse hacia adelante, hacia los lados, y saltar. 
@@ -37,6 +47,7 @@
   En el laberinto se encuentran recompenzas para sumar su puntuación y 2 vidas más para ayudarlo a llegar a su objetivo.
   El juego termina si su puntuación llega a números negativos, también puede terminar si se queda sin vidas, lo mismo que si termina el tiempo.
   Gana el juego cuando logra llegar al centro del laberinto y encuenra su queso.
+- Niveles: El juego cuenta de dos niveles, en el primero, el jugador inicia desde el punto de entrada y debe encontrar la meta (el queso), una vez que logre     encontrarla terminara el primer nivel como ganador, y podra acceder al siguiente nivel. En el que debe encotrar la salida, y regresar a su casa. En ambos niveles sera el mismo escenario, pero en el segundo, el jugador, aparecera en una posición aleatoria de la escena de juego.
 - Pantallas de Juego
   Pantalla de inicio.
   <br>
