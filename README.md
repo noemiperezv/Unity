@@ -152,6 +152,7 @@
 
 ## Autores
 Noemi Perez Vega
+Carolina Ramos Velázquez
 
 ## Copyright
 Derechos Reservados 2022
