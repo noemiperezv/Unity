@@ -27,7 +27,7 @@
 - Plataforma: 
   PC, Género: Aventura, Clasificación: Todos, Personajes: Jugador y enemigos , Escenario: un laberinto.
 - Historia:
-  Algunos bandidos han robado el queso de la rata Monty, y lo han colocado en el centro de un laberinto. Por lo que ahora debe emprender un viaje a través de un     complejo laberinto para poder encontrarlo. En el camino encontrara algunos enemigos que le restaran vidas, o algunos poderes que le ayudaran a derrotar a sus enemigos.
+  Algunos bandidos han robado el queso de la rata Monty, y lo han colocado en un lugar aleatorio en la escena del juego. Por lo que ahora debe emprender un viaje a través de un bosque para poder encontrarlo. En el camino encontrara algunos enemigos que le restaran vidas, o algunos poderes que le ayudaran a derrotar a sus enemigos.
 - Personajes:
   La rata Monty
   <br>
