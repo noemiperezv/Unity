@@ -56,7 +56,8 @@
 - Pantallas de Juego
   Pantalla de inicio.
   <br>
-  ![Pantalla de inicio](https://user-images.githubusercontent.com/66137245/200076375-52297fde-14c0-49d2-b946-72cb1ba6a9fc.png)
+  
+  ![image](https://user-images.githubusercontent.com/66137245/200076375-52297fde-14c0-49d2-b946-72cb1ba6a9fc.png)
   <br>
   Pantalla de juego en curso.
   <br>
