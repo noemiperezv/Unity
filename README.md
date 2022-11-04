@@ -23,7 +23,7 @@
 - Nombre del proyecto: 
   Monty
 - Objetivo: 
-  Controlar el jugador para encontrar el queso que le fue robado, haciendolo en tiempo, y con la puntuación en números positivos.
+  Controlar el jugador para encontrar el queso que le fue robado, haciendolo en el tiempo establecido, y con la puntuación en números positivos.
 - Plataforma: 
   PC, Género: Aventura, Clasificación: Todos, Personajes: Jugador y enemigos , Escenario: un laberinto.
 - Historia:
