@@ -52,6 +52,7 @@
   El juego termina si su puntuación llega a números negativos es decir es menor a 0, también puede terminar si se queda sin vidas, lo mismo que si se termina el tiempo.
   Gana el juego cuando logra llegar al final del camino y encuenra su queso.
 - Niveles: El juego cuenta de dos niveles, en el primero, el jugador inicia desde el punto de entrada y debe encontrar la meta (el queso), una vez que logre     encontrarla terminará el primer nivel como ganador, y podra acceder al siguiente nivel. En el que hara un recorrido similar al del primer nivel, pero con menos tiempo, y los enemigos apareceran con más frecuencia.
+<br>
 - Pantallas de Juego
   Pantalla de inicio.
   <br>
