@@ -47,7 +47,7 @@
 - Reglas de Juego:
   El jugador inicia con 3 vidas, una puntuación en 0, y 5 minutos para completar el recorrido.
   El jugador puede moverse hacia adelante, hacia los lados, y saltar. 
-  Durante el recorrido encontrará algunos obstaculos que le restaran puntuación o enemigos que intentaran detenerlo.
+  Durante el recorrido encontrará algunos obstaculos que le restaran puntuación o enemigos que se moveran en la escena de juego para intentar detenerlo.
   En la escena de juego se encuentran recompenzas para sumar su puntuación y 2 vidas más para ayudarlo a llegar a su objetivo.
   El juego termina si su puntuación llega a números negativos es decir es menor a 0, también puede terminar si se queda sin vidas, lo mismo que si se termina el tiempo.
   Gana el juego cuando logra llegar al final del camino y encuenra su queso.
