@@ -23,7 +23,7 @@
 - Nombre del proyecto: 
   Monty
 - Objetivo: 
-  Controlar el jugador para encontrar el centro del laberinto donde se encuentra la meta con una recompenza.
+  Controlar el jugador para encontrar el queso que le fue robado, haciendolo en tiempo, y con la puntuación en números positivos.
 - Plataforma: 
   PC, Género: Aventura, Clasificación: Todos, Personajes: Jugador y enemigos , Escenario: un laberinto.
 - Historia:
@@ -40,6 +40,9 @@
   ![image](https://user-images.githubusercontent.com/66137245/199129589-4e96ed75-ad74-45a0-8a02-4239eb7bce3f.png)
   ![image](https://user-images.githubusercontent.com/66137245/199129094-2089627d-c12e-4f89-9b09-13695b03d628.png)
   ![image](https://user-images.githubusercontent.com/66137245/199129282-43fd8e4e-60b2-40db-b49e-723bbd17b74a.png)
+- Escenario:
+  <br>
+  ![image](https://user-images.githubusercontent.com/66137245/200076125-32f4fd6b-36b7-47ca-ac35-140fc9e65e5d.png)
 - Reglas de Juego:
   El jugador inicia con 3 vidas, una puntuación en 0, y 5 minutos para completar el recorrido.
   El jugador puede moverse hacia adelante, hacia los lados, y saltar. 
@@ -47,22 +50,22 @@
   En el laberinto se encuentran recompenzas para sumar su puntuación y 2 vidas más para ayudarlo a llegar a su objetivo.
   El juego termina si su puntuación llega a números negativos, también puede terminar si se queda sin vidas, lo mismo que si termina el tiempo.
   Gana el juego cuando logra llegar al centro del laberinto y encuenra su queso.
-- Niveles: El juego cuenta de dos niveles, en el primero, el jugador inicia desde el punto de entrada y debe encontrar la meta (el queso), una vez que logre     encontrarla terminara el primer nivel como ganador, y podra acceder al siguiente nivel. En el que debe encotrar la salida, y regresar a su casa. En ambos niveles sera el mismo escenario, pero en el segundo, el jugador, aparecera en una posición aleatoria de la escena de juego.
+- Niveles: El juego cuenta de dos niveles, en el primero, el jugador inicia desde el punto de entrada y debe encontrar la meta (el queso), una vez que logre     encontrarla terminará el primer nivel como ganador, y podra acceder al siguiente nivel. En el que hara un recorrido similar al del primer nivel, pero con menos tiempo, y los enemigos apareceran con más frecuencia.
 - Pantallas de Juego
   Pantalla de inicio.
   <br>
-  <img width="282" alt="Inicio" src="https://user-images.githubusercontent.com/66137245/199127489-b8931e7a-e0c1-4a98-b6dc-20833c9760e7.png">
+  ![Pantalla de inicio](https://user-images.githubusercontent.com/66137245/200076375-52297fde-14c0-49d2-b946-72cb1ba6a9fc.png)
   <br>
   Pantalla de juego en curso.
   <br>
-  <img width="351" alt="Curso" src="https://user-images.githubusercontent.com/66137245/199127506-c7e57a74-d9e2-45d8-8405-ec9c6a69bf48.png">
+  ![Juego en curso](https://user-images.githubusercontent.com/66137245/200076462-bc331d94-d21d-4cfb-9819-9dd5b67af905.png)
   <br>
   Pantalla de juego terminado.
   <br>
-  <img width="287" alt="Game over" src="https://user-images.githubusercontent.com/66137245/199128104-e0e8a56c-f62e-4886-9fed-a4a0a6317101.png">
+  ![Game over](https://user-images.githubusercontent.com/66137245/200076497-115c79a8-9245-4dd5-8543-f4dd80fb6b49.png)
   Pantalla de juego ganado.
   <br>
-  <img width="313" alt="Juego ganado" src="https://user-images.githubusercontent.com/66137245/199127552-8adac4a9-0089-468a-a4fc-f054b69b56c0.png">
+  ![Juego ganado](https://user-images.githubusercontent.com/66137245/200076636-c6b6aa76-963b-4773-a4e4-79f5917c9454.png)
   <br>
 - Plan de creación de VideoJuego.
 <table>
