@@ -153,8 +153,8 @@
 * [Desafío Lección 5](https://drive.google.com/file/d/1JXOQaLyrolYFdfKHLsWIu5T-Zhuar_cz/view?usp=sharing)
 
 ## Planificación
-<img width="953" alt="Planeación" src="https://user-images.githubusercontent.com/66137245/198742304-d31d880b-7608-4773-b06a-dcc29f19bb8a.png">
-
+![image](https://user-images.githubusercontent.com/66137245/200086361-d0251781-d2cb-4cd6-b329-37eac59517b5.png)
+[Link de la planeación](https://sharing.clickup.com/31602085/g/h/y4dd5-105/0fb24b13d2b9a81)
 ## Autores
 Noemi Perez Vega
 Carolina Ramos Velázquez
