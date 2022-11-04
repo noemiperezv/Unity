@@ -77,30 +77,30 @@
   <tr>
     <td>1</td>
     <td>Diseñar el personaje, el escenario, y los objetos que aparecerán en el juego.</td>
-    <td>10/10/2022</td>
+    <td>31/10/2022 <br>  04/11/2022</td>
   </tr>
   
   <tr>
     <td>2</td>
     <td>Seleccionar los efectos especiales con los que contará.</td>
-    <td>30/10/2022</td>
+    <td>07/11/2022 <br> 9/11/2022</td>
   </tr>
   
   <tr>
     <td>3</td>
     <td>Seleccionar los efectos de sonido y melodías necesarias. </td>
-    <td>10/11/2022</td>
+    <td>10/11/2022 <br> 14/11/2022</td>
   </tr>
   
   <tr>
     <td>4</td>
     <td>Programar los distintos niveles.</td>
-    <td>15/11/2022</td>
+    <td>15/11/2022 <br> 21/11/2022</td>
   </tr>
   <tr>
     <td>5</td>
     <td>Realizar pruebas.</td>
-    <td>20/11/2022</td>
+    <td>22/11/2022 <br> 25/11/2022</td>
   </tr>
 </table>
 
