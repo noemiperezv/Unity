@@ -1,5 +1,5 @@
 # Creación de Video Juego
-![Logo](https://user-images.githubusercontent.com/66137245/197370883-3b7949c1-4852-4982-9367-ab7147aee8d8.png)
+![Logo](https://cdn-3.expansion.mx/dims4/default/5fd17a8/2147483647/strip/true/crop/3864x2576+0+0/resize/1200x800!/format/webp/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F33%2F38%2F425ea19f487680315036da9ef5f3%2Fistock-1334436084.jpg)
     Short description
     <br>
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
@@ -20,14 +20,94 @@
 
 ## Introducción
 
-- Nombre del proyecto
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
-- Historia
-- Personajes
-- Reglas de Juego.
+- Nombre del proyecto: 
+  Monty
+- Objetivo: 
+  Controlar el jugador para encontrar el queso que le fue robado, haciendolo en el tiempo establecido, y con la puntuación en números positivos.
+- Plataforma: 
+  PC, Género: Aventura, Clasificación: Todos, Personajes: Jugador y enemigos , Escenario: un laberinto.
+- Historia:
+  Algunos bandidos han robado el queso de la rata Monty, y lo han colocado en un lugar aleatorio en la escena del juego. Por lo que ahora debe emprender un viaje a través de un bosque para poder encontrarlo. En el camino encontrara algunos enemigos que le restaran vidas, o algunos poderes que le ayudaran a derrotar a sus enemigos.
+- Personajes:
+  La rata Monty
+  <br>
+  ![image](https://user-images.githubusercontent.com/66137245/199128891-421db1be-36d5-4492-aaa3-0bb907518a18.png)
+  <br>
+  5 enemigos(3 humanos y 2 animales).
+  <br>
+  ![image](https://user-images.githubusercontent.com/66137245/199129569-196b1b33-fa37-4fa9-b98c-54dbb0733159.png)
+  ![image](https://user-images.githubusercontent.com/66137245/200083332-fca042da-2f2c-4e59-b92a-b519e4c0f46d.png)
+  ![image](https://user-images.githubusercontent.com/66137245/199129589-4e96ed75-ad74-45a0-8a02-4239eb7bce3f.png)
+  <br>
+  ![image](https://user-images.githubusercontent.com/66137245/199129094-2089627d-c12e-4f89-9b09-13695b03d628.png)
+  ![image](https://user-images.githubusercontent.com/66137245/199129282-43fd8e4e-60b2-40db-b49e-723bbd17b74a.png)
+- Escenario:
+  <br>
+  ![image](https://user-images.githubusercontent.com/66137245/200076125-32f4fd6b-36b7-47ca-ac35-140fc9e65e5d.png)
+- Reglas de Juego:
+  El jugador inicia con 3 vidas, una puntuación en 0, y 5 minutos para completar el recorrido.
+  El jugador puede moverse hacia adelante, hacia los lados, y saltar. 
+  Durante el recorrido encontrará algunos obstaculos que le restaran puntuación o enemigos que se moveran en la escena de juego para intentar detenerlo.
+  En la escena de juego se encuentran recompenzas para sumar su puntuación y 2 vidas más para ayudarlo a llegar a su objetivo.
+  El juego termina si su puntuación llega a números negativos es decir es menor a 0, también puede terminar si se queda sin vidas, lo mismo que si se termina el tiempo.
+  Gana el juego cuando logra llegar al final del camino y encuenra su queso.
+- Niveles: El juego cuenta de dos niveles, en el primero, el jugador inicia desde el punto de entrada y debe encontrar la meta (el queso), una vez que logre     encontrarla terminará el primer nivel como ganador, y podra acceder al siguiente nivel. En el que hara un recorrido similar al del primer nivel, pero con menos tiempo, y los enemigos apareceran con más frecuencia.
+<br>
 - Pantallas de Juego
+  Pantalla de inicio.
+  <br>
+  
+  ![image](https://user-images.githubusercontent.com/66137245/200076375-52297fde-14c0-49d2-b946-72cb1ba6a9fc.png)
+  <br>
+  Pantalla de juego en curso.
+  <br>
+  ![Juego en curso](https://user-images.githubusercontent.com/66137245/200076462-bc331d94-d21d-4cfb-9819-9dd5b67af905.png)
+  <br>
+  Pantalla de juego terminado.
+  <br>
+  ![Game over](https://user-images.githubusercontent.com/66137245/200076497-115c79a8-9245-4dd5-8543-f4dd80fb6b49.png)
+  Pantalla de juego ganado.
+  <br>
+  ![Juego ganado](https://user-images.githubusercontent.com/66137245/200076636-c6b6aa76-963b-4773-a4e4-79f5917c9454.png)
+  <br>
 - Plan de creación de VideoJuego.
+<table>
+  <tr>
+    <th>Acción</th>
+    <th>Descripción</th>
+    <th>Fecha estimada</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Diseñar el personaje, el escenario, y los objetos que aparecerán en el juego.</td>
+    <td>31/10/2022 <br>  04/11/2022</td>
+  </tr>
+  
+  <tr>
+    <td>2</td>
+    <td>Seleccionar los efectos especiales con los que contará.</td>
+    <td>07/11/2022 <br> 9/11/2022</td>
+  </tr>
+  
+  <tr>
+    <td>3</td>
+    <td>Seleccionar los efectos de sonido y melodías necesarias. </td>
+    <td>10/11/2022 <br> 14/11/2022</td>
+  </tr>
+  
+  <tr>
+    <td>4</td>
+    <td>Programar los distintos niveles.</td>
+    <td>15/11/2022 <br> 21/11/2022</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Realizar pruebas.</td>
+    <td>22/11/2022 <br> 25/11/2022</td>
+  </tr>
+</table>
+
+
 
 ## Código Fuente
 
@@ -46,20 +126,20 @@
   * > ![Prueba](https://user-images.githubusercontent.com/66137245/197370320-907ac1a0-2408-4f0d-a541-6a274db51294.png)
 * Lección 3
   * > [Tutorial](Lesson3_NoemiPerezVega.unitypackage)
-  * > [Laboratorio]
+  * > [Laboratorio](Noemi_V0.2.unitypackage)
   * > [Desafío](Lesson3_Challenge_NoemiPerezVega.unitypackage)
   * > ![Prueba](https://user-images.githubusercontent.com/66137245/197370342-6c028702-0ea9-4f41-a9ae-9c904e6e7c00.png)
   * > ![Prueba](https://user-images.githubusercontent.com/66137245/197370348-e7eb79dc-65ff-4c02-ae36-ce3b97a6af45.png)
 * Lección 4
   * > [Tutorial](Lesson4_NoemiPerezVega.unitypackage)
-  * > Laboratorio
+  * > [Laboratorio](Noemi_V0.3.unitypackage)
   * > [Desafío](Lesson4_Challenge_NoemiPerezVega.unitypackage)
   * > ![Prueba](https://user-images.githubusercontent.com/66137245/197370370-a52253f3-3c66-4508-a492-3b82f84823f0.png)
   * > ![Prueba](https://user-images.githubusercontent.com/66137245/197370403-260e2951-cd04-4948-b28c-1547ace51888.png)
 
 * Lección 5
   * > [Tutorial](Lesson5_NoemiPerezVega.unitypackage)
-  * > Laboratorio
+  * > [Laboratorio](Noemi_V0.4.unitypackage)
   * > [Desafío](Lesson5_Challenge_NoemiPerezVega.unitypackage)
   * > ![Prueba](https://user-images.githubusercontent.com/66137245/197370432-ad549299-2cbf-4937-ad76-3cff0491d585.png)
   * > ![Prueba](https://user-images.githubusercontent.com/66137245/197370439-165ee79e-9575-45c6-a34d-2aa788ef96fe.png)
@@ -74,11 +154,11 @@
 * [Desafío Lección 5](https://drive.google.com/file/d/1JXOQaLyrolYFdfKHLsWIu5T-Zhuar_cz/view?usp=sharing)
 
 ## Planificación
-
-![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
-
+![image](https://user-images.githubusercontent.com/66137245/200086361-d0251781-d2cb-4cd6-b329-37eac59517b5.png)
+[Link de la planeación](https://sharing.clickup.com/31602085/g/h/y4dd5-105/0fb24b13d2b9a81)
 ## Autores
 Noemi Perez Vega
+Carolina Ramos Velázquez
 
 ## Copyright
 Derechos Reservados 2022
