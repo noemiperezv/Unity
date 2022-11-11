@@ -107,8 +107,27 @@
   </tr>
 </table>
 
-* Código videojuego
+## Código videojuego
   * > [Version 1.0](Monty_V0.1.unitypackage)
+## Descripción de la versión 1.0:
+* Elementos visibles en el juego.
+  * Contiene escenario de juego.
+  * Incluye jugador.
+* Elementos en carpeta prefabs:
+  * 5 enemigos (Cada uno tiene la animación de correr por defecto).
+  * Elementos que seran las recompenzas para el jugador.
+  * Elementos que dañaran al jugador o restaran puntuación.
+  * Elemento que servira para agregar una nueva vida al jugador.
+  * Elemento que servira como el objetivo de búsqueda del jugador.
+* Elementos en la carpeta scripts:
+  * Archivo para controlar al jugador (actualmente solo puede moverse hacia adelante y girar hacia los lados, también se maneja la transición entre la animación de inactivo a caminando).
+  * Archivo para controlar el movimiento de la cámara (sigue al jugador).
+* Elementos en la carpeta Particles:
+  * Efecto de explosión para cuando el jugador entre en contacto con los elementos que lo dañan.
+  * Efecto de particulas para cuando el jugador obtiene una vida.
+  * Efecto de particulas para cuando el jugador  obtiene una recompenza.
+* Elementos en la carpeta Controllers:
+  * Controlador de animaciones para cada uno de los personajes: el jugador y 5 enemigos. 
 
 ## Código Fuente
 
