@@ -109,6 +109,7 @@
 
 ## Código videojuego
   * > [Version 1.0](https://drive.google.com/file/d/1Ahoftp3AxscHc8ZBUi-HtnEzQX9Iryoi/view?usp=sharing)
+  * > [Version 1.1](https://drive.google.com/file/d/1Fjty5NPvg2nWTbYGQ2t3Hpz5zmTFfy1H/view?usp=sharing)
 ## Descripción de la versión 1.0:
 * Elementos visibles en el juego.
   * Contiene escenario de juego.
@@ -128,6 +129,16 @@
   * Efecto de particulas para cuando el jugador  obtiene una recompenza.
 * Elementos en la carpeta Controllers:
   * Controlador de animaciones para cada uno de los personajes: el jugador y 5 enemigos. 
+## Descripción de la versión 1.1:
+* Elementos en la carpeta PhysicsMaterials
+  * Material "Bouncy".
+* Elementos en la carpeta Scripts:
+  * Archivo "SpawnManager" para generar distintos enemigos cada 30 segundos.
+  * Archivo "Enemy" para controlar las acciones de los enemigos.
+* Elementos en la carpeta sounds:
+  * Sonido para los saltos.
+  * Sonido para obtener recompenzas.
+  * Sonido para explosión. 
 
 ## Código Fuente
 
