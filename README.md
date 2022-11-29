@@ -110,6 +110,7 @@
 ## Código videojuego
   * > [Version 1.0](https://drive.google.com/file/d/1Ahoftp3AxscHc8ZBUi-HtnEzQX9Iryoi/view?usp=sharing)
   * > [Version 1.1](https://drive.google.com/file/d/1Fjty5NPvg2nWTbYGQ2t3Hpz5zmTFfy1H/view?usp=sharing)
+  * > [Version 1.2](https://drive.google.com/file/d/1rz8IqVnvVNN7xRzCB7AKwRdhrS41hpRD/view?usp=sharing)
 ## Descripción de la versión 1.0:
 * Elementos visibles en el juego.
   * Contiene escenario de juego.
@@ -139,6 +140,25 @@
   * Sonido para los saltos.
   * Sonido para obtener recompenzas.
   * Sonido para explosión. 
+ ## Descripción de la versión 1.2
+ * Elementos en la carpeta Scripts:
+   * Cambios en "Spawn Manager": Se generan los diversos componentes del juego para el nivel 1 se crean 25 enemigos, y 30 para el nivel 2, en cada nivel se genera también el objetivo meta(un queso), 100 elementos al azar (incluye recompensas y bobmas), así como 2 vidas al iniciar el juego.
+   * Cambios en "Enemy": los enemigos aún tienen como enemigo perseguir al jugador, pero inician deambulando por el área de juego, y en cuanto detectan al jugador empiezan a seguirlo.
+   * Archivo "TimeController" y "TimeControllerLevel2", para establecer un temporizador con el tiempo de cada nivel (5 minutos para el primero, 3 minutos para el segundo).
+   * Archivo "RotateCamara", para controlar mejor la posición de la cámara, ya que permite moverse en dirección al personaje.
+ *  Elementos en la carpeta Sprites:
+   * Se incluyen las imagenes utilizadas dentro del juego (un reloj para el temporizador, una estrella para la puntuación, y corazones para las vidas).
+ *  Cambios en la carpeta Characters/Enemies:
+   * Se agregan dos animaciones más para cada uno de los 5 enemigos (estado quieto, y caminar para deambular en el terreno de juego).
+ *  Cambios en la carpeta Controllers:
+   * En cada uno de los controladores para el enemigo se incluyen las animaciones de estar quieto y caminar, también se determina cuando se usaran dependiendo de unas condiciones.  
+ *  Elementos en el componente Canvas:
+   * Panel para la puntuación (incluye imagen y texto con la puntuación).
+   * Panel para el temporizador (incluye imagen y texto con el tiempo restante).
+   * Panel para las vidas del jugador (incluye imagenes dependiendo del número de vidas con las que cuente).
+   * Panel de inicio para poder comenzar el juego.
+   * Panel de game over que muestra un mensaje con la causa por la que perdio el juego, y un botón para reiniciar el juego.
+   * Panel de juego ganado, que muestra un mensaje de felicitación para el jugador, y  un botón para pasar el segundo nivel.
 
 ## Código Fuente
 
