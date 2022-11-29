@@ -147,18 +147,18 @@
    * Archivo "TimeController" y "TimeControllerLevel2", para establecer un temporizador con el tiempo de cada nivel (5 minutos para el primero, 3 minutos para el segundo).
    * Archivo "RotateCamara", para controlar mejor la posición de la cámara, ya que permite moverse en dirección al personaje.
  *  Elementos en la carpeta Sprites:
-   * Se incluyen las imagenes utilizadas dentro del juego (un reloj para el temporizador, una estrella para la puntuación, y corazones para las vidas).
+    * Se incluyen las imagenes utilizadas dentro del juego (un reloj para el temporizador, una estrella para la puntuación, y corazones para las vidas).
  *  Cambios en la carpeta Characters/Enemies:
-   * Se agregan dos animaciones más para cada uno de los 5 enemigos (estado quieto, y caminar para deambular en el terreno de juego).
+    * Se agregan dos animaciones más para cada uno de los 5 enemigos (estado quieto, y caminar para deambular en el terreno de juego).
  *  Cambios en la carpeta Controllers:
-   * En cada uno de los controladores para el enemigo se incluyen las animaciones de estar quieto y caminar, también se determina cuando se usaran dependiendo de unas condiciones.  
+    * En cada uno de los controladores para el enemigo se incluyen las animaciones de estar quieto y caminar, también se determina cuando se usaran dependiendo de unas condiciones.  
  *  Elementos en el componente Canvas:
-   * Panel para la puntuación (incluye imagen y texto con la puntuación).
-   * Panel para el temporizador (incluye imagen y texto con el tiempo restante).
-   * Panel para las vidas del jugador (incluye imagenes dependiendo del número de vidas con las que cuente).
-   * Panel de inicio para poder comenzar el juego.
-   * Panel de game over que muestra un mensaje con la causa por la que perdio el juego, y un botón para reiniciar el juego.
-   * Panel de juego ganado, que muestra un mensaje de felicitación para el jugador, y  un botón para pasar el segundo nivel.
+    * Panel para la puntuación (incluye imagen y texto con la puntuación).
+    * Panel para el temporizador (incluye imagen y texto con el tiempo restante).
+    * Panel para las vidas del jugador (incluye imagenes dependiendo del número de vidas con las que cuente).
+    * Panel de inicio para poder comenzar el juego.
+    * Panel de game over que muestra un mensaje con la causa por la que perdio el juego, y un botón para reiniciar el juego.
+    * Panel de juego ganado, que muestra un mensaje de felicitación para el jugador, y  un botón para pasar el segundo nivel.
 
 ## Código Fuente
 
