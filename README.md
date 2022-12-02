@@ -111,6 +111,7 @@
   * > [Version 1.0](https://drive.google.com/file/d/1Ahoftp3AxscHc8ZBUi-HtnEzQX9Iryoi/view?usp=sharing)
   * > [Version 1.1](https://drive.google.com/file/d/1Fjty5NPvg2nWTbYGQ2t3Hpz5zmTFfy1H/view?usp=sharing)
   * > [Version 1.2](https://drive.google.com/file/d/1rz8IqVnvVNN7xRzCB7AKwRdhrS41hpRD/view?usp=sharing)
+  * > [Version 1.2](https://drive.google.com/file/d/1ffSMPGNu0QtJ9GdFSjCKiyqwWH3X0JUU/view?usp=sharing)
 ## Descripción de la versión 1.0:
 * Elementos visibles en el juego.
   * Contiene escenario de juego.
