@@ -162,6 +162,10 @@
     * Panel de inicio para poder comenzar el juego.
     * Panel de game over que muestra un mensaje con la causa por la que perdio el juego, y un botón para reiniciar el juego.
     * Panel de juego ganado, que muestra un mensaje de felicitación para el jugador, y  un botón para pasar el segundo nivel.
+    
+## Despliegue del videojuego
+  * > [PC](https://drive.google.com/file/d/14s3Rha2725pb1FqJAmveV4yqPIHpcosq/view?usp=sharing)
+  * > [Android](https://drive.google.com/file/d/1pMnzfohmD9O_5mdsrpUGkqvWu6bAQ-c_/view?usp=sharing)
 
 ## Código Fuente
 
